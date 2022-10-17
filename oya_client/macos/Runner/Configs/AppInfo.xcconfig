@@ -8,7 +8,7 @@
 PRODUCT_NAME = oyamori
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.oyamori
+PRODUCT_BUNDLE_IDENTIFIER = com.yuuki.oyamori
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
