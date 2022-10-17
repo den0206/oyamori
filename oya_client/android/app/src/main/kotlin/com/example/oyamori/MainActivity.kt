@@ -1,4 +1,4 @@
-package com.example.oyamori
+package com.yuuki.oyamori
 
 import io.flutter.embedding.android.FlutterActivity
 
